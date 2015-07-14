@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+        "name"              "QuickConnect"
+        "version"           "1.2"
+        "up_date"           "18/04/2013"
+        "author_name"       "Switchy"
+        "author_email"      "switchytm@gmail.com"
+        "info"              "Adds a Quick Connect menu to your F3. www.switchyentertainments.co.uk"
+        "override"          "0"
+}

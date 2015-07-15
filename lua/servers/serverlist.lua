@@ -1,7 +1,6 @@
 --[[
 		Created by Switchy
 		www.switchyentertainments.co.uk if you'd like to contact me.
-		Or try our teamspeak 3! switchyent.ts.nfoservers.com
 		Thanks!
 ]]--
 
